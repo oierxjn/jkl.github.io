@@ -1,4 +1,6 @@
 # ptezwall.github.io
-This is the first HTML for **oierxjn**
+This is the first HTML for **oierxjn**.
 
-Perhaps I will develop it into **a comment page**
+It was first named "oierxjn.github.io".
+
+Perhaps I will develop it into **a comment page**.
